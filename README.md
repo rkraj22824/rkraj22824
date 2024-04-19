@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
+<h1 align="center">"Hey, I'm Rajat Kumar"</h1>
 <h3 align="center">Turning coffee into code, and ideas into apps. ☕️📱</h3>
 
 <img align ="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
